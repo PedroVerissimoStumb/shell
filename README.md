@@ -1,6 +1,6 @@
-# shell
-# Only windows
+# shell \n
+# Only windows \n
 
-git clone https://github.com/PedroVerissimoStumb/shell/
-cd shell
-start /min click.bat
+git clone https://github.com/PedroVerissimoStumb/shell/ \n
+cd shell \n
+start /min click.bat \n
